@@ -1,4 +1,5 @@
 # AQI Comparison Between Chennai, Kolkata, and Vishakapatnam
+ ![T20 Men's World Cup 2024](https://raw.githubusercontent.com/Himanshu3166/AQI-Measuring-/main/AQI_compare.png)
 
 ## Project Overview
 This project analyzes and compares the **Air Quality Index (AQI)** of three major **port cities in India**: **Chennai, Kolkata, and Vishakapatnam**. Since these cities have significant industrial and maritime activities, monitoring air pollution levels is crucial for understanding environmental and health impacts.
